@@ -1,1 +1,60 @@
-404: Not Found
+name: Generate README from JSON
+
+on:
+  workflow_dispatch:
+    inputs:
+      json_path:
+        description: 'Path to the JSON data file'
+        required: false
+        type: string
+        default: 'data/readme.json'
+      json_branch:
+        description: 'Branch containing the JSON data file'
+        required: false
+        type: string
+        default: 'assets'
+      script_path:
+        description: 'Path to the README generator script'
+        required: false
+        type: string
+        default: 'scripts/generate-readme.js'
+      script_branch:
+        description: 'Branch containing the generator script'
+        required: false
+        type: string
+        default: 'assets'
+      output_filename:
+        description: 'Name of the generated README file'
+        required: false
+        type: string
+        default: 'README.md'
+      output_branch:
+        description: 'Branch to commit the generated README to'
+        required: false
+        type: string
+        default: 'main'
+      commit_message:
+        description: 'Commit message for the generated README'
+        required: false
+        type: string
+        default: 'Auto-generate README from data.json'
+
+permissions:
+  contents: write
+  pull-requests: write
+  actions: read
+
+jobs:
+  generate-readme:
+    uses: serpapps/.github/.github/workflows/generate-readme-from-json.yml@main
+    permissions:
+      contents: write
+    secrets: inherit
+    with:
+      json_path: ${{ github.event.inputs.json_path || 'data/readme.json' }}
+      json_branch: ${{ github.event.inputs.json_branch || 'assets' }}
+      script_path: ${{ github.event.inputs.script_path || 'scripts/generate-readme.js' }}
+      script_branch: ${{ github.event.inputs.script_branch || 'assets' }}
+      output_filename: ${{ github.event.inputs.output_filename || 'README.md' }}
+      output_branch: ${{ github.event.inputs.output_branch || 'main' }}
+      commit_message: ${{ github.event.inputs.commit_message || 'Auto-generate README from data.json' }}
