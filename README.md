@@ -4,6 +4,9 @@
 
 
 <details>
+  
+  <sumary>How to download Onlyfans videos and images</sumary>
+  
   # OnlyFans Video Download Research: Technical Analysis of Stream Patterns, CDNs, and Download Methods
 
 *A comprehensive research document analyzing OnlyFans' video infrastructure, embed patterns, stream formats, and optimal download strategies using modern tools*
