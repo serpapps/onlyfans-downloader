@@ -1,0 +1,16 @@
+name: call generate README
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - assets
+    paths:
+      - 'data/readme.json'
+
+jobs:
+  call-workflow:
+    uses: serpapps/.github/.github/workflows/generate-readme-from-json.yml@main
+    permissions:
+      contents: write
+    secrets: inherit
