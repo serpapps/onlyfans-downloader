@@ -54,6 +54,8 @@ Onlyfans Downloader is a powerful tool that helps you download content from Only
 ## More Info
 
 - 📁 Repository [here](https://github.com/serpapps/onlyfans-downloader)
+- [How to download onlyfans content](https://gist.github.com/devinschumacher/4415c0f4c6055fcfcf8dde14c08f48a1)
+
 
 <details>
 <summary>Keywords</summary>
