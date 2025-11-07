@@ -1,10 +1,8 @@
 # Onlyfans Downloader: Download Onlyfans profile content (Videos, Images, etc.) 
 
-> Download OnlyFans content including posts, messages, and live streams
+Download videos & images from Onlyfans profiles to backup media or enjoy offline.
 
-![Onlyfans Downloader](https://raw.githubusercontent.com/serpapps/onlyfans-downloader/assets/images/onlyfans-downloader.gif)
-
-Onlyfans Downloader gives creators and teams a dependable way to save Onlyfans content instantly to your device. Instead of juggling manual captures or questionable browser extensions, it pulls content directly from Onlyfans with consistent quality and predictable results. It supports Subscriber content and media files, Photos, videos, and story content, and Batch creator profiles/posts downloads, so you can move quickly from download to delivery without tedious rework. Use it to archive Onlyfans assets, prep client deliverables, or keep your library accessible when connectivity is limited.
+Instead of juggling manual captures or questionable browser extensions, it pulls content directly from Onlyfans with consistent quality and predictable results. It supports subscriber content and media files, photos, videos, and bulk downloading. Use it to archive Onlyfans assets, prep client deliverables, or keep your library accessible when connectivity is limited.
 
 ## ✨ Key Features
 
