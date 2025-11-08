@@ -33,6 +33,13 @@ Instead of juggling manual captures or questionable browser extensions, it pulls
 - Helpful status messages
 - Refresh detection action
 - Password prompt support for protected videos
+- Bulk download added on creator profiles: auto-opens the profile’s Media tab and starts from there.
+- Filter picker: choose All media, Photos only, or Videos only before starting.
+- One-time folder pick: saves silently via File System Access; no per‑file “Save As”.
+- Organized output: OnlyFans//<Images|Videos>/ with unique filenames (no overwrites).
+- Progress UI: “Saving…” with percentage in the Download Manager for each item.
+- UI polish: clearer, higher‑contrast Bulk options panel.
+- Works for both photos and videos with clear save progress
 
 
 
