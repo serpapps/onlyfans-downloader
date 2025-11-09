@@ -6,7 +6,11 @@ Instead of juggling manual captures or questionable browser extensions, it pulls
 
 ## ✨ Key Features
 
-- Bulk Downloading: https://www.youtube.com/watch?v=43virGMRbvE
+### Bulk Downloading
+
+<a href="https://www.youtube.com/watch?v=rCp66iA-j3s" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-bulk-download-onlyfans-profile-content-onlyfans-bulk-downloader.jpg" width="700px">
+</a>
 
 ---
 
