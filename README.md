@@ -4,7 +4,6 @@ Download videos & images from Onlyfans profiles to backup media or enjoy offline
 
 Instead of juggling manual captures or questionable browser extensions, it pulls content directly from Onlyfans with consistent quality and predictable results. It supports subscriber content and media files, photos, videos, and bulk downloading. Use it to archive Onlyfans assets, prep client deliverables, or keep your library accessible when connectivity is limited.
 
-<a href="https://fazier.com" target="_blank"><img src="https://fazier.com/api/v1//public/badges/launch_badges.svg?badge_type=launched&theme=light" width=120 alt="Fazier badge" /></a>
 
 ## ✨ Key Features
 
