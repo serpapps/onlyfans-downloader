@@ -40,23 +40,29 @@ Download, organize, and back up videos, photos, and entire profiles in a single 
 
 ## FAQs
 
-### How do I use the Onlyfans downloader?
+### How do I use the OnlyFans downloader?  
+Install the browser extension, navigate to OnlyFans, find the content or profile you want to download, and click a button.
 
-Install the browser extension, navigate to Onlyfans, find the content you want to download, and click the download button that appears.  The content will be saved to your chosen location.
+### What quality options are available?  
+The downloader supports all available quality levels from OnlyFans, ranging from standard definition up to 4K or higher where available. You can select your preferred quality before downloading.
 
-### What quality options are available?
+### Does this work with all OnlyFans content?  
+The downloader works with almost all publicly accessible content on OnlyFans. Some restricted or DRM-protected content may not be downloadable.
 
-The downloader supports all available quality levels from Onlyfans, ranging from standard definition up to 4K or higher where available. You can select your preferred quality before downloading.
+### Will downloads continue if my internet connection drops?  
+If your connection is interrupted, you may need to restart the download. However, for most content, downloads complete quickly enough that interruptions are rare.
 
-### Is there a download limit?
+### Is there a download limit?  
+There are no artificial download limits imposed by the extension. You can download as much content as your storage space allows, one item at a time.
 
-There are no artificial download limits imposed by the extension.  
-You can download as much content as your storage space allows, one item at a time.
+### How do I organize my downloaded content?  
+Downloaded files are automatically saved & organized by creator & media type into subfolders, and saved to your already selected default download location in your browser settings. You can organize them manually using your computer's file system, creating folders by date, topic, or any system that works for you.
 
-### Is my data kept private?
+### Does this work on all browsers?  
+The extension works on major desktop browsers including Chrome, Firefox, Edge, Opera, etc. Make sure your browser is up to date for the best compatibility.
 
-Yes, the extension operates entirely on your local device.  No download history or personal data is sent to external servers, ensuring complete privacy.
-
+### Is my data kept private?  
+Yes, the extension operates entirely on your local device. No download history or personal data is sent to external servers, ensuring complete privacy.
 
 ## 🔗 Links
 
