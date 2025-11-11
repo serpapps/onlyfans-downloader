@@ -13,7 +13,6 @@ Download, organize, and back up videos, photos, and entire profiles in a single 
 ---
 
 - Single & bulk downloading supported
-- Automatic detection of OnlyFans videos on the current page (and supported embeds)
 - Media auto detection
 - Download progress indicators
 - One-click downloads
