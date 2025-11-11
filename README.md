@@ -1,9 +1,6 @@
 # Onlyfans Downloader: Download Onlyfans profile content (Videos, Images, etc.) 
 
-Download videos & images from Onlyfans profiles to backup media or enjoy offline.
-
-Instead of juggling manual captures or questionable browser extensions, it pulls content directly from Onlyfans with consistent quality and predictable results. It supports subscriber content and media files, photos, videos, and bulk downloading. Use it to archive Onlyfans assets, prep client deliverables, or keep your library accessible when connectivity is limited.
-
+Download, organize, and back up videos, photos, and entire profiles in a single click — all while keeping your privacy fully protected. Built with zero tracking, zero analytics, and no third-party data collection – just fast, reliable, and organized downloads automatically sorted by creator and categorized by media type, giving you total control over your content with this browser extension that works on all major browsers.
 
 ## ✨ Key Features
 
