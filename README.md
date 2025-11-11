@@ -97,6 +97,19 @@ Yes, the extension operates entirely on your local device. No download history o
 ![onlyfans-downloader-5](https://github.com/user-attachments/assets/e94edbd2-6716-4c1b-9f47-03c11ded3ed6)
 
 
+## Permissions justifications
+
+storage
+Stores creator selections, download queue state, and dynamic rules locally so your preferences and progress persist between browser sessions.
+
+cookies
+Reads the OnlyFans auth_id cookie to verify you're logged in and authenticate API requests for downloading your content.
+
+downloads
+Saves downloaded videos and photos to your Downloads/OnlyFans folder and manages the download progress for each media file.
+
+tabs
+Opens OnlyFans.com in a new tab when you need to sign in or sign out of your account.
 
 
 ## More Info
@@ -127,6 +140,28 @@ Yes, the extension operates entirely on your local device. No download history o
 </details>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 
 <details>
 <summary>Research</summary>
