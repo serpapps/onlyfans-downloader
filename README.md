@@ -12,36 +12,18 @@ Download, organize, and back up videos, photos, and entire profiles in a single 
 
 ---
 
+- Single & bulk downloading supported
 - Automatic detection of OnlyFans videos on the current page (and supported embeds)
-- Quality selection before download
-- Download progress with live percentage and speed
-- Cancel button to safely stop in‑progress downloads
-- One‑click activation (email + license key) with state persistence
-- Export logs from the popup (🧾) for fast support
-- Helpful status messages, refresh detection action, and “video detected” banner
-- Password prompt support for protected videos
-- One-click download from any video page
-- 100% privacy-friendly
-- Auto-detect videos on the page
-- No watermarks or branding added
-- Zero Ads
+- Media auto detection
+- Download progress indicators
+- One-click downloads
+- No watermarks added
+- No ads
 - Regular Updates
-- Minimal Permissions
+- 100% privacy-friendly
 - Zero data tracking
-- Quality selection before download
-- Download progress with live percentage and speed
-- Cancel button to safely stop in-progress downloads
-- Export logs from the popup (copy) for fast support
-- Helpful status messages
-- Refresh detection action
-- Password prompt support for protected videos
-- Bulk download added on creator profiles: auto-opens the profile’s Media tab and starts from there.
-- Filter picker: choose All media, Photos only, or Videos only before starting.
-- One-time folder pick: saves silently via File System Access; no per‑file “Save As”.
-- Organized output: OnlyFans//<Images|Videos>/ with unique filenames (no overwrites).
-- Progress UI: “Saving…” with percentage in the Download Manager for each item.
-- UI polish: clearer, higher‑contrast Bulk options panel.
-- Works for both photos and videos with clear save progress
+- Media download customization
+- Supports photos & videos
 
 
 
