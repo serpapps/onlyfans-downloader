@@ -112,10 +112,12 @@ tabs
 Opens OnlyFans.com in a new tab when you need to sign in or sign out of your account.
 
 
-## More Info
+​
+## Related 
+- [OnlyFans Downloader Repository](https://github.com/serpapps/onlyfans-downloader)
+- [How to download onlyfans videos for free](https://gist.github.com/devinschumacher/4415c0f4c6055fcfcf8dde14c08f48a1)
+- [OnlyFans Downloader launch announcement](https://gist.github.com/devinschumacher/e1a94bc53cde2a141930fc9e9b834e0c)
 
-- 📁 Repository [here](https://github.com/serpapps/onlyfans-downloader)
-- [How to download onlyfans content](https://gist.github.com/devinschumacher/4415c0f4c6055fcfcf8dde14c08f48a1)
 
 
 <details>
