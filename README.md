@@ -119,7 +119,6 @@ Opens OnlyFans.com in a new tab when you need to sign in or sign out of your acc
 - [OnlyFans Downloader launch announcement](https://gist.github.com/devinschumacher/e1a94bc53cde2a141930fc9e9b834e0c)
 
 
-
 <details>
      <summary>KW</summary>
 
