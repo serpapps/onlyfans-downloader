@@ -15,20 +15,13 @@ SERP OnlyFans Downloader is a browser extension built specifically for saving On
 
 If you have paid for a subscription and want to keep the content on your device, this extension handles it all directly in your browser.
 
-## 🔗 Links
+## Links
 
-- 🎁 Get it [**here**](https://serp.ly/onlyfans-downloader)
-- ❓ Check FAQs [**here**](https://help.serp.co/en/)
-- 🐛 Report bugs [**here**](https://github.com/serpapps/onlyfans-downloader/issues)
-- 🆕 Request features [**here**](https://github.com/serpapps/onlyfans-downloader/discussions)
-- 📦 Latest release [**here**](https://github.com/serpapps/onlyfans-downloader/releases/latest)
-
-## Resources
-
-- 💬 [**Community**](https://community.serp.co)
-- 💌 [**Newsletter**](https://newsletter.serp.co)
-- 🛒 [**Shop**](https://store.serp.co)
-- 🎓 [**Courses**](https://courses.serp.co)
+- :rocket: Get it here: [OnlyFans Downloader](https://serp.ly/onlyfans-downloader)
+- :new: Latest release: [GitHub Releases](https://github.com/serpapps/onlyfans-downloader/releases/latest)
+- :question: Help center: [SERP Help](https://help.serp.co/en/)
+- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/onlyfans-downloader/issues)
+- :bulb: Request features: [Feature Requests](https://github.com/serpapps/onlyfans-downloader/discussions)
 
 ## Why OnlyFans Downloader
 
@@ -161,14 +154,6 @@ Yes — supports Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox.
 
 Yes. Video processing happens entirely in your browser. Authentication uses secure one-time codes — no passwords stored. The extension accesses OnlyFans using your existing logged-in session cookies.
 
-## Important Notes
+## License
 
-Users are responsible for ensuring they have the right to download content. This extension is intended for downloading content you have paid for and have permission to save. An active OnlyFans subscription is required. You must be logged in to OnlyFans for the extension to function. Quality depends on what the source provides. An active internet connection is required.
-
-## Keywords
-
-`onlyfans downloader` `onlyfans video downloader` `download onlyfans` `onlyfans mp4` `onlyfans browser extension` `save onlyfans videos` `onlyfans image downloader` `onlyfans bulk downloader`
-
-## Get It
-
-- **Start here:** [SERP OnlyFans Downloader](https://serp.ly/onlyfans-downloader)
+This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
