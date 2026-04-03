@@ -4,6 +4,7 @@
     "listingNotice": {
       "default": "No runtime input is required yet. See the README and product page for the current extension workflow.",
       "description": "Optional informational field only. This actor currently serves as the public listing surface for the browser extension and does not yet expose a finalized runtime API contract.",
+      "editor": "textfield",
       "title": "Listing notice",
       "type": "string"
     }
