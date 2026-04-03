@@ -5,6 +5,6 @@
   "description": "Browser extension for saving OnlyFans videos, images, GIFs, and text posts with in-page overlays, bulk gallery scanning, and local-only downloads.",
   "version": "0.0",
   "buildTag": "latest",
-  "readme": "./README.md",
+  "readme": "../README.md",
   "input": "./INPUT_SCHEMA.json"
 }
