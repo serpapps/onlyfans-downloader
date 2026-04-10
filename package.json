@@ -1,0 +1,28 @@
+{
+  "name": "@serpdownloaders/onlyfans-downloader",
+  "version": "1.0.0",
+  "description": "onlyfans-downloader",
+  "keywords": ["onlyfans-downloader", "automation"],
+  "homepage": "https://serp.ly/onlyfans-downloader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serpapps/onlyfans-downloader.git"
+  },
+  "author": {
+    "name": "Devin Schumacher",
+    "url": "https://devinschumacher.com"
+  },
+  "contributors": [
+  {"name":"Devin Schumacher","url":"https://devinschumacher.com"},
+  {"name":"Devin Schumacher","url":"https://youtube.com/@devinschumacher"},
+  {"name":"Devin Schumacher","url":"https://github.com/devinschumacher"},
+  {"name":"Devin Schumacher","url":"https://gist.github.com/devinschumacher"},
+  {"name":"SERP Apps","url":"https://github.com/serpapps"},
+  {"name":"SERP Downloaders","url":"https://github.com/serpdownloaders"}
+],
+  "license": "UNLICENSED",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}
