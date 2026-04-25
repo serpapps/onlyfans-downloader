@@ -9,7 +9,7 @@ SERP OnlyFans Downloader is a browser extension built specifically for saving On
 - Skip generic tools that fail on OnlyFans' authenticated streaming — this extension handles it natively
 - Downloads auto-organize into per-creator folders so your files stay sorted without any manual effort
 
-<a href="https://www.youtube.com/watch?v=rCp66iA-j3s" target="_blank">
+<a href="https://www.youtube.com/@devinschumacher1/videos" target="_blank">
 <img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-bulk-download-onlyfans-profile-content-onlyfans-bulk-downloader.jpg" width="700px">
 </a>
 
