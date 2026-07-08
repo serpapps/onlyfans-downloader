@@ -17,7 +17,7 @@ If you have paid for a subscription and want to keep the content on your device,
 
 ## Links
 
-- :rocket: Get it here: [OnlyFans Downloader](https://serp.ly/onlyfans-downloader)
+- :rocket: Get it here: [OnlyFans Downloader](https://serp.ly/onlyfans-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/onlyfans-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/onlyfans-downloader/issues)
@@ -44,7 +44,7 @@ This extension was designed to solve all of that directly inside your browser, w
 
 ## How It Works
 
-1. **Install** — Add SERP OnlyFans Downloader to your browser from the [product page](https://serp.ly/onlyfans-downloader), or download the latest version from [GitHub Releases](https://github.com/serpapps/onlyfans-downloader/releases/latest) and load it manually
+1. **Install** — Add SERP OnlyFans Downloader to your browser from the [product page](https://serp.ly/onlyfans-downloader?via=github), or download the latest version from [GitHub Releases](https://github.com/serpapps/onlyfans-downloader/releases/latest) and load it manually
 2. **Visit a creator's page** — Log in to OnlyFans and navigate to any creator you are subscribed to
 3. **Pick what to save** — Use the overlay buttons that appear on each photo and video, or open the side panel to see all detected media organized by type
 4. **Files land in organized folders** — Videos are saved as MP4, images keep their original format, and everything is sorted into per-creator directories
@@ -107,7 +107,7 @@ Beyond compatibility, the extension is built for the specific workflow of saving
 
 ## Trial & Pricing
 
-Trial downloads are included when you sign in with your email — no credit card required. Upgrade to a license for unlimited downloads at the [product page](https://serp.ly/onlyfans-downloader).
+Trial downloads are included when you sign in with your email — no credit card required. Upgrade to a license for unlimited downloads at the [product page](https://serp.ly/onlyfans-downloader?via=github).
 
 - Works on Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
 - Secure one-time-passcode sign-in — no passwords stored
