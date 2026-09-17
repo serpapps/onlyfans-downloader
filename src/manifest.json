@@ -1,0 +1,84 @@
+{
+  "manifest_version": 3,
+  "name": "Downloader for OnlyFans",
+  "version": "4.0.5",
+  "description": "Fast, private, one-click video downloads from OnlyFans — save content directly to your computer in full quality.",
+  "permissions": [
+    "downloads",
+    "activeTab",
+    "storage",
+    "tabs",
+    "scripting",
+    "offscreen",
+    "cookies",
+    "sidePanel"
+  ],
+  "host_permissions": [
+    "https://api.github.com/*",
+    "https://auth.serp.co/*",
+    "https://onlyfans.com/*",
+    "https://*.onlyfans.com/*",
+    "https://cdn2.onlyfans.com/*"
+  ],
+  "background": {
+    "service_worker": "serp-bundles/background-service-worker.graph.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "serp-bundles/content-1.graph.js"
+      ],
+      "run_at": "document_start"
+    },
+    {
+      "matches": [
+        "https://onlyfans.com/*",
+        "https://*.onlyfans.com/*"
+      ],
+      "js": [
+        "serp-bundles/content-2.bundle.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_title": "Downloader for OnlyFans",
+    "default_popup": "action-popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "side_panel": {
+    "default_path": "popup.html"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "offscreen.html",
+        "offscreen.js",
+        "indexed-db.js",
+        "modules/*",
+        "bulk-saver.html",
+        "bulk-saver.js"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self';",
+    "sandbox": "sandbox allow-scripts allow-forms allow-popups allow-modals; script-src 'self' 'unsafe-inline' 'unsafe-eval' 'wasm-unsafe-eval'; child-src 'self';"
+  }
+}
