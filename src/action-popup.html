@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>SERP OnlyFans Downloader</title>
+    <style id="serp-auth-boot-css">
+      html,
+      body[data-popup-entrypoint="action"] {
+        width: 420px !important;
+        min-width: 420px !important;
+        max-width: 420px !important;
+        overflow-x: hidden !important;
+      }
+
+      body[data-popup-entrypoint="action"] {
+        min-height: 560px !important;
+        max-height: 640px !important;
+        overflow-y: auto !important;
+      }
+
+      body[data-popup-entrypoint="action"] .popup-shell {
+        width: 100% !important;
+        min-height: 0 !important;
+        display: block !important;
+      }
+
+      #activationSection {
+        display: none !important;
+      }
+      body[data-auth-screen="visible"] #activationSection[data-serp-auth-ui="1"] {
+        display: block !important;
+      }
+    </style>
+    <script src="site-config.js"></script>
+    <link rel="stylesheet" href="styles/popup-enhanced.css" />
+  </head>
+  <body data-popup-entrypoint="action">
+    <div class="bg-orbit bg-orbit-a"></div>
+    <div class="bg-orbit bg-orbit-b"></div>
+
+    <div class="popup-shell">
+      <div id="bootSplash" class="boot-splash">Checking OnlyFans access...</div>
+
+      <header class="header">
+        <h1>Downloader for OnlyFans</h1>
+      </header>
+
+      <div id="trialBanner" class="trial-banner hidden"></div>
+
+      <section id="activationSection" class="activation-section"></section>
+
+      <main id="mainContent" class="main-content hidden">
+        <section class="stats-grid">
+          <div class="stat-card">
+            <span class="stat-label">Videos</span>
+            <strong id="videoCount">0</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Images / GIFs</span>
+            <strong id="imageCount">0</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Text Posts</span>
+            <strong id="textCount">0</strong>
+          </div>
+        </section>
+
+        <section class="tabs">
+          <button class="tab-btn active" data-tab="videos" type="button">Videos</button>
+          <button class="tab-btn" data-tab="images" type="button">Images/GIFs</button>
+          <button class="tab-btn" data-tab="texts" type="button">Text</button>
+          <button class="tab-btn" data-tab="bulk" type="button">Bulk</button>
+        </section>
+
+        <section class="panel-actions">
+          <button id="downloadAllBtn" class="primary-btn" type="button">Download Visible</button>
+          <button id="bulkQuickStartBtn" class="ghost-btn" type="button">Bulk Tools</button>
+        </section>
+
+        <section id="assetList" class="asset-list"></section>
+      </main>
+
+      <footer id="status" class="status info">Checking activation status...</footer>
+    </div>
+
+    <script src="logger.js"></script>
+    <script type="module" src="auth.js"></script>
+    <script defer src="popup-enhanced.js"></script>
+    <script defer src="auth-ui.js"></script>
+    <script defer src="trial-banner.js"></script>
+    <script defer src="update-notifier.js"></script>
+  </body>
+</html>

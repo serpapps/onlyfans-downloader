@@ -1,0 +1,588 @@
+logger.js:41 2025-11-02T20:10:39.054Z [OF] OnlyFans downloader content script loaded
+logger.js:41 2025-11-02T20:10:39.055Z [OF-CS] [OF-CS] Bulk button injected
+logger.js:41 2025-11-02T20:10:39.055Z [OF-CS] OF overlay: styles injected
+logger.js:41 2025-11-02T20:10:39.055Z [OF-CS] OF overlay: processing 0 media container(s)
+logger.js:41 2025-11-02T20:10:39.210Z [OF-CS] OF overlay: processing 0 media container(s)
+content.js:7 [M3U8 Downloader][content] addOnce: appended new entry Object
+content.js:7 [M3U8 Downloader][content] scanPage: discovered media tag Object
+logger.js:41 2025-11-02T20:10:39.560Z [OF-CS] OF overlay: processing 0 media container(s)
+logger.js:41 2025-11-02T20:10:40.668Z [OF-CS] OF overlay: processing 0 media container(s)
+logger.js:41 2025-11-02T20:10:41.229Z [OF-CS] OF overlay: processing 0 media container(s)
+logger.js:41 2025-11-02T20:12:13.604Z [OF-CS] OF overlay: processing 0 media container(s)
+content.js:7 [M3U8 Downloader][content] addOnce: appended new entry Object
+content.js:7 [M3U8 Downloader][content] scanPage: discovered media tag Object
+logger.js:41 2025-11-02T20:12:14.141Z [OF-CS] OF overlay: processing 0 media container(s)
+content.js:7 [M3U8 Downloader][content] addOnce: appended new entry Object
+content.js:7 [M3U8 Downloader][content] scanPage: discovered media tag Object
+logger.js:41 2025-11-02T20:12:19.707Z [OF-CS] OF overlay: processing 0 media container(s)
+content.js:7 [M3U8 Downloader][content] addOnce: appended new entry {url: 'https://static2.onlyfans.com/static/prod/f/202510311131-888967a6eb/icons/site.webmanifest', title: 'OnlyFans', type: 'video', ext: 'webm', mime: 'video/webm'}
+content.js:7 [M3U8 Downloader][content] scanPage: discovered media tag {url: 'https://static2.onlyfans.com/static/prod/f/202510311131-888967a6eb/icons/site.webmanifest', title: 'OnlyFans', type: 'video', ext: 'webm', mime: 'video/webm'}
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: GET "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+logger.js:41 2025-11-02T20:12:20.732Z [OF-CS] OF overlay: processing 30 media container(s)
+logger.js:41 2025-11-02T20:12:20.733Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.733Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.733Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.734Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.734Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.734Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.735Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.735Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.735Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.735Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.736Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.736Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.736Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.736Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.737Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.737Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.737Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.737Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.738Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.738Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.738Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.739Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.739Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.739Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.739Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.739Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.739Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.740Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.740Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.740Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.741Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.741Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.741Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.742Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.742Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.742Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.742Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.743Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.743Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.743Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.743Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.743Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.744Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.744Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.744Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.745Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.745Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.745Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.745Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.746Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.746Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.746Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.746Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.747Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.747Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.747Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.747Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.748Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.748Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.748Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.749Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.749Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.749Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.750Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.750Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.750Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.751Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.751Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.751Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.751Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.751Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.752Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.752Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.752Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.752Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.753Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.753Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.754Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.754Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.754Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.754Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.755Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.755Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.755Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.756Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.756Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.756Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.757Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 856, h: 482}
+logger.js:41 2025-11-02T20:12:20.757Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:12:20.757Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:12:20.916Z [OF-CS] OF overlay: processing 30 media container(s)
+logger.js:41 2025-11-02T20:12:21.075Z [OF-CS] OF overlay: processing 30 media container(s)
+logger.js:41 2025-11-02T20:12:42.273Z [OF-CS] OF overlay: processing 30 media container(s)
+logger.js:41 2025-11-02T20:12:42.442Z [OF-CS] OF overlay: processing 30 media container(s)
+[Violation] 'message' handler took <N>ms
+[Violation] 'message' handler took <N>ms
+[Violation] 'message' handler took <N>ms
+[Violation] 'message' handler took <N>ms
+[Violation] 'message' handler took <N>ms
+v1?ray=998649da0ab1e7de&lang=en:1 [Violation] Avoid using document.write(). https://developers.google.com/web/updates/2016/08/removing-document-write
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+Promise.then
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+v1?ray=998649da0ab1e7de&lang=en:1  Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+[Violation] 'load' handler took 278ms
+v1?ray=998649da0ab1e7de&lang=en:1 Request for the Private Access Token challenge.
+v1?ray=998649da0ab1e7de&lang=en:1 Fetch failed loading: GET "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/998649da0ab1e7de/1762114364974/e4048644437bdadde60d1cdcd132c664776e6df1a87fe7b7632b15db1c61f988/psMTfNWr8DRWFOx".
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+Promise.then
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+Promise.then
+GY @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+(anonymous) @ v1?ray=998649da0ab1e7de&lang=en:1
+GH @ v1?ray=998649da0ab1e7de&lang=en:1
+[Violation] 'load' handler took 188ms
+v1?ray=998649da0ab1e7de&lang=en:1 
+[Violation] Forced reflow while executing JavaScript took 54ms
+  POST https://onlyfans.com/api2/v2/users/login 400 (Bad Request)
+(anonymous) @ chunk-vendors-2fc62025.js:1
+(anonymous) @ chunk-vendors-812f96fa.js:1
+t @ chunk-vendors-a3ef1e28.js:1
+xhr @ chunk-vendors-a3ef1e28.js:1
+Ge @ chunk-vendors-a3ef1e28.js:1
+Promise.then
+_request @ chunk-vendors-a3ef1e28.js:1
+request @ chunk-vendors-a3ef1e28.js:1
+n @ chunk-vendors-a3ef1e28.js:1
+n @ chunk-vendors-a3ef1e28.js:1
+(anonymous) @ app.js:1
+Ue @ app.js:1
+post @ app.js:1
+a @ app.js:1
+formSubmit @ 19345.js:1
+await in formSubmit
+invisibleTokenCreated @ 19345.js:1
+Wn @ chunk-vendors-3bad0650.js:7
+n @ chunk-vendors-3bad0650.js:7
+Wn @ chunk-vendors-3bad0650.js:7
+Fr.t.$emit @ chunk-vendors-3bad0650.js:7
+invisibleTokenCreated @ 1605.js:1
+Wn @ chunk-vendors-3bad0650.js:7
+n @ chunk-vendors-3bad0650.js:7
+Wn @ chunk-vendors-3bad0650.js:7
+Fr.t.$emit @ chunk-vendors-3bad0650.js:7
+(anonymous) @ 77363.js:1
+(anonymous) @ chunk-vendors-3bad0650.js:7
+Qn @ chunk-vendors-3bad0650.js:7
+Promise.then
+Xn @ chunk-vendors-3bad0650.js:7
+rr @ chunk-vendors-3bad0650.js:7
+vo @ chunk-vendors-3bad0650.js:7
+t.update @ chunk-vendors-3bad0650.js:7
+push.885471.t.notify @ chunk-vendors-3bad0650.js:7
+e @ chunk-vendors-3bad0650.js:7
+t @ chunk-vendors-3bad0650.js:7
+update:data @ 19345.js:1
+Wn @ chunk-vendors-3bad0650.js:7
+n @ chunk-vendors-3bad0650.js:7
+Wn @ chunk-vendors-3bad0650.js:7
+Fr.t.$emit @ chunk-vendors-3bad0650.js:7
+set @ 1605.js:1
+update:data @ 1605.js:1
+Wn @ chunk-vendors-3bad0650.js:7
+n @ chunk-vendors-3bad0650.js:7
+Wn @ chunk-vendors-3bad0650.js:7
+Fr.t.$emit @ chunk-vendors-3bad0650.js:7
+callback @ 77363.js:1
+a @ api.js?render=explicit:1
+M @ api.js?render=explicit:1
+o @ chunk-vendors-15b5c380.js:1
+ XHR failed loading: POST "https://onlyfans.com/api2/v2/users/login".
+(anonymous) @ chunk-vendors-2fc62025.js:1
+(anonymous) @ chunk-vendors-812f96fa.js:1
+t @ chunk-vendors-a3ef1e28.js:1
+xhr @ chunk-vendors-a3ef1e28.js:1
+Ge @ chunk-vendors-a3ef1e28.js:1
+Promise.then
+_request @ chunk-vendors-a3ef1e28.js:1
+request @ chunk-vendors-a3ef1e28.js:1
+n @ chunk-vendors-a3ef1e28.js:1
+n @ chunk-vendors-a3ef1e28.js:1
+(anonymous) @ app.js:1
+Ue @ app.js:1
+post @ app.js:1
+a @ app.js:1
+formSubmit @ 19345.js:1
+await in formSubmit
+invisibleTokenCreated @ 19345.js:1
+Wn @ chunk-vendors-3bad0650.js:7
+n @ chunk-vendors-3bad0650.js:7
+Wn @ chunk-vendors-3bad0650.js:7
+Fr.t.$emit @ chunk-vendors-3bad0650.js:7
+invisibleTokenCreated @ 1605.js:1
+Wn @ chunk-vendors-3bad0650.js:7
+n @ chunk-vendors-3bad0650.js:7
+Wn @ chunk-vendors-3bad0650.js:7
+Fr.t.$emit @ chunk-vendors-3bad0650.js:7
+(anonymous) @ 77363.js:1
+(anonymous) @ chunk-vendors-3bad0650.js:7
+Qn @ chunk-vendors-3bad0650.js:7
+Promise.then
+Xn @ chunk-vendors-3bad0650.js:7
+rr @ chunk-vendors-3bad0650.js:7
+vo @ chunk-vendors-3bad0650.js:7
+t.update @ chunk-vendors-3bad0650.js:7
+push.885471.t.notify @ chunk-vendors-3bad0650.js:7
+e @ chunk-vendors-3bad0650.js:7
+t @ chunk-vendors-3bad0650.js:7
+update:data @ 19345.js:1
+Wn @ chunk-vendors-3bad0650.js:7
+n @ chunk-vendors-3bad0650.js:7
+Wn @ chunk-vendors-3bad0650.js:7
+Fr.t.$emit @ chunk-vendors-3bad0650.js:7
+set @ 1605.js:1
+update:data @ 1605.js:1
+Wn @ chunk-vendors-3bad0650.js:7
+n @ chunk-vendors-3bad0650.js:7
+Wn @ chunk-vendors-3bad0650.js:7
+Fr.t.$emit @ chunk-vendors-3bad0650.js:7
+callback @ 77363.js:1
+a @ api.js?render=explicit:1
+M @ api.js?render=explicit:1
+o @ chunk-vendors-15b5c380.js:1
+ 2025-11-02T20:12:48.597Z [OF-CS] OF overlay: processing 30 media container(s)
+challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1 [Violation] 'readystatechange' handler took 335ms
+challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1  Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1 
+challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1 Request for the Private Access Token challenge.
+challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1 [Violation] Avoid using document.write(). https://developers.google.com/web/updates/2016/08/removing-document-write
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+Promise.then
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+Promise.then
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1 Fetch failed loading: GET "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/99864a008fc9e7de/1762114371003/63809a075869842d5ddf60748c47ef7c7423f24dbe5cd58fdb9b9eecb04c874b/p0VQfZiims98VO7".
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+Promise.then
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GY @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+(anonymous) @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+GH @ challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1
+challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/ddtkw/0x4AAAAAAAxTpmbMvo7Qj6zy/light/fbE/new/normal/en:1 The resource https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=99864a008fc9e7de&lang=en:1 
+ 2025-11-02T20:13:00.316Z [OF-CS] OF overlay: processing 30 media container(s)
+ 2025-11-02T20:13:01.180Z [OF-CS] OF overlay: processing 0 media container(s)
+ 2025-11-02T20:13:01.823Z [OF-CS] OF overlay: processing 0 media container(s)
+ 2025-11-02T20:13:02.576Z [OF-CS] OF overlay: processing 0 media container(s)
+ 2025-11-02T20:13:03.240Z [OF-CS] OF overlay: processing 9 media container(s)
+ 2025-11-02T20:13:03.242Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 799}
+ 2025-11-02T20:13:03.242Z [OF-CS] OF overlay: image button appended
+ 2025-11-02T20:13:03.243Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 799}
+ 2025-11-02T20:13:03.243Z [OF-CS] OF overlay: image button appended
+ 2025-11-02T20:13:03.244Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 1067}
+ 2025-11-02T20:13:03.244Z [OF-CS] OF overlay: image button appended
+ 2025-11-02T20:13:03.244Z [OF-CS] OF overlay: video button appended
+ 2025-11-02T20:13:03.245Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 1067}
+ 2025-11-02T20:13:03.245Z [OF-CS] OF overlay: image button appended
+ 2025-11-02T20:13:03.245Z [OF-CS] OF overlay: video button appended
+ 2025-11-02T20:13:03.246Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 1067}
+ 2025-11-02T20:13:03.246Z [OF-CS] OF overlay: image button appended
+ 2025-11-02T20:13:03.246Z [OF-CS] OF overlay: video button appended
+ 2025-11-02T20:13:03.247Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 1067}
+ 2025-11-02T20:13:03.247Z [OF-CS] OF overlay: image button appended
+ 2025-11-02T20:13:03.248Z [OF-CS] OF overlay: video button appended
+ 2025-11-02T20:13:03.248Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 1067}
+ 2025-11-02T20:13:03.249Z [OF-CS] OF overlay: image button appended
+ 2025-11-02T20:13:03.249Z [OF-CS] OF overlay: video button appended
+ 2025-11-02T20:13:03.250Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 1067}
+ 2025-11-02T20:13:03.250Z [OF-CS] OF overlay: image button appended
+ 2025-11-02T20:13:03.250Z [OF-CS] OF overlay: video button appended
+ 2025-11-02T20:13:03.251Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 804}
+ 2025-11-02T20:13:03.251Z [OF-CS] OF overlay: image button appended
+ 2025-11-02T20:13:03.412Z [OF-CS] OF overlay: processing 9 media container(s)
+ 2025-11-02T20:13:03.568Z [OF-CS] OF overlay: processing 9 media container(s)
+ 2025-11-02T20:13:04.036Z [OF-CS] OF overlay: processing 9 media container(s)
+ 2025-11-02T20:13:04.219Z [OF-CS] OF overlay: processing 9 media container(s)
+ 2025-11-02T20:13:04.718Z [OF-CS] OF overlay: processing 9 media container(s)
+content.js:7 [M3U8 Downloader][content] addOnce: appended new entry {url: 'https://static2.onlyfans.com/static/prod/f/202510311131-888967a6eb/icons/site.webmanifest', title: 'OnlyFans', type: 'video', ext: 'webm', mime: 'video/webm'}
+content.js:7 [M3U8 Downloader][content] scanPage: discovered media tag {url: 'https://static2.onlyfans.com/static/prod/f/202510311131-888967a6eb/icons/site.webmanifest', title: 'OnlyFans', type: 'video', ext: 'webm', mime: 'video/webm'}
+logger.js:41 2025-11-02T20:13:08.013Z [OF-CS] OF overlay: processing 0 media container(s)
+logger.js:41 2025-11-02T20:13:08.655Z [OF-CS] OF overlay: processing 0 media container(s)
+logger.js:41 2025-11-02T20:13:09.812Z [OF-CS] OF overlay: processing 5 media container(s)
+logger.js:41 2025-11-02T20:13:09.819Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 799}
+logger.js:41 2025-11-02T20:13:09.819Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:09.829Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 800}
+logger.js:41 2025-11-02T20:13:09.829Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:09.839Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 602}
+logger.js:41 2025-11-02T20:13:09.839Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:09.849Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 770}
+logger.js:41 2025-11-02T20:13:09.849Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:09.859Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 1042}
+logger.js:41 2025-11-02T20:13:09.859Z [OF-CS] OF overlay: image button appended
+[Violation] Forced reflow while executing JavaScript took 43ms
+logger.js:41 2025-11-02T20:13:10.214Z [OF-CS] OF overlay: processing 5 media container(s)
+logger.js:41 2025-11-02T20:13:10.880Z [OF-CS] OF overlay: processing 5 media container(s)
+logger.js:41 2025-11-02T20:13:12.113Z [OF-CS] OF overlay: processing 17 media container(s)
+logger.js:41 2025-11-02T20:13:12.128Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 927}
+logger.js:41 2025-11-02T20:13:12.128Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:12.151Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 927}
+logger.js:41 2025-11-02T20:13:12.151Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:12.177Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 800}
+logger.js:41 2025-11-02T20:13:12.177Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:12.201Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 800}
+logger.js:41 2025-11-02T20:13:12.201Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:12.224Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 800}
+logger.js:41 2025-11-02T20:13:12.224Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:12.247Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 600, h: 800}
+logger.js:41 2025-11-02T20:13:12.247Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:12.269Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 568, h: 1010}
+logger.js:41 2025-11-02T20:13:12.270Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:12.270Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:13:12.293Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 568, h: 1010}
+logger.js:41 2025-11-02T20:13:12.293Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:12.293Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:13:12.315Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 568, h: 1010}
+logger.js:41 2025-11-02T20:13:12.315Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:12.316Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:13:12.339Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 568, h: 1010}
+logger.js:41 2025-11-02T20:13:12.339Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:12.339Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:13:12.361Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 568, h: 1010}
+logger.js:41 2025-11-02T20:13:12.362Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:12.362Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:13:12.384Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 568, h: 1010}
+logger.js:41 2025-11-02T20:13:12.384Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:12.384Z [OF-CS] OF overlay: video button appended
+logger.js:41 2025-11-02T20:13:12.406Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 568, h: 757}
+logger.js:41 2025-11-02T20:13:12.406Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:12.428Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 568, h: 426}
+logger.js:41 2025-11-02T20:13:12.429Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:12.451Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 568, h: 757}
+logger.js:41 2025-11-02T20:13:12.451Z [OF-CS] OF overlay: image button appended
+logger.js:41 2025-11-02T20:13:12.474Z [OF-CS] OF overlay: created overlay container for media {tag: 'DIV', w: 568, h: 759}
+logger.js:41 2025-11-02T20:13:12.475Z [OF-CS] OF overlay: image button appended
+content-enhanced.js:548 [Violation] 'setTimeout' handler took 375ms
+[Violation] Forced reflow while executing JavaScript took 363ms
+logger.js:41 2025-11-02T20:13:12.662Z [OF-CS] OF overlay: processing 17 media container(s)
+logger.js:41 2025-11-02T20:13:12.982Z [OF-CS] OF overlay: processing 17 media container(s)
+logger.js:41 2025-11-02T20:13:13.864Z [OF-CS] OF overlay: processing 16 media container(s)
+logger.js:41 2025-11-02T20:13:14.132Z [OF-CS] OF overlay: processing 16 media container(s)
+logger.js:41 2025-11-02T20:13:15.780Z [OF-CS] OF overlay: processing 0 media container(s)
+content.js:7 [M3U8 Downloader][content] addOnce: appended new entry {url: 'https://static2.onlyfans.com/static/prod/f/202510311131-888967a6eb/icons/site.webmanifest', title: 'Anastasia Steele 🖤 OnlyFans', type: 'video', ext: 'webm', mime: 'video/webm'}
+content.js:7 [M3U8 Downloader][content] scanPage: discovered media tag {url: 'https://static2.onlyfans.com/static/prod/f/202510311131-888967a6eb/icons/site.webmanifest', title: 'Anastasia Steele 🖤 OnlyFans', type: 'video', ext: 'webm', mime: 'video/webm'}
+logger.js:41 2025-11-02T20:13:16.651Z [OF-CS] OF overlay: processing 0 media container(s)
+logger.js:41 2025-11-02T20:13:17.659Z [OF-CS] OF overlay: processing 0 media container(s)
+logger.js:41 2025-11-02T20:13:18.845Z [OF-CS] OF overlay: processing 0 media container(s)
+logger.js:41 2025-11-02T20:13:21.376Z [OF-CS] OF overlay: processing 0 media container(s)

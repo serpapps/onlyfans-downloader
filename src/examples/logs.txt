@@ -1,0 +1,2488 @@
+ 2025-10-11T10:21:34.386Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.386Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.387Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.387Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.535Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.536Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.536Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.536Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.564Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.564Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.565Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.565Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.583Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.583Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.583Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.583Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.586Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.586Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.586Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.586Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.624Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.624Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.624Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.624Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.643Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.643Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.643Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.643Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.666Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.666Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.666Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.666Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.687Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.687Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.687Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.687Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.739Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.739Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.740Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.740Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.756Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.757Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.757Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.757Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.777Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.777Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.778Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.778Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.798Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.798Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.798Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.798Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.821Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.821Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.821Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.821Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.845Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.845Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.845Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.845Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.884Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.884Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.884Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.884Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.900Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.900Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.900Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.900Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.918Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.918Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.919Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.919Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.969Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.969Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.969Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.969Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.985Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.985Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:34.985Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:34.985Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.004Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.004Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.004Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.004Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.027Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.027Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.028Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.028Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.069Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.069Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.069Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.069Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.084Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.084Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.084Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.084Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.103Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.103Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.104Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.104Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.119Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.119Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.119Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.120Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.306Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.306Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.306Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.306Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.346Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.346Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.346Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.346Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.359Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.360Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.360Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.360Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.383Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.383Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.383Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.383Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.384Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.384Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.384Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.384Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.397Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.397Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.397Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.397Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.588Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.588Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.588Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.588Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.619Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.619Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.620Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.620Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.637Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.637Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.637Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.637Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.660Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.660Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.660Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.660Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.692Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.692Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.692Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.692Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.693Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.693Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.693Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.693Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.720Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.720Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.720Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.720Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.746Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.746Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.746Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.746Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.769Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.769Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.770Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.770Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.791Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.791Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.791Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.791Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.825Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.826Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.826Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.826Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.839Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.839Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.839Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.839Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.862Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.862Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.862Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.862Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.879Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.879Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.879Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.879Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.897Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.897Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.897Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.897Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.932Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.932Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.932Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.932Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.952Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.952Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.952Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.952Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.971Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.971Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.971Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.971Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.989Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.989Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:35.989Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:35.989Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.016Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.017Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.017Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.017Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.146Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.146Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.146Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.146Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.159Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.159Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.159Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.159Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.190Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.190Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.191Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.191Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.199Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.199Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.199Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.199Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.213Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.213Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.213Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.213Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.226Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.226Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.226Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.226Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.387Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.387Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.387Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.387Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.408Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.408Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.408Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.408Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.426Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.426Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.426Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.426Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.452Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.453Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.453Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.453Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.453Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.453Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.453Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.453Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.463Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.463Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.463Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.463Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.646Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.646Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.646Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.646Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.706Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.706Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.706Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.706Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.728Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.728Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.728Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.728Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.747Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.747Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.747Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.747Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.757Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.757Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.757Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.757Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.780Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.780Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.780Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.780Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.811Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.811Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.811Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.811Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.879Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.879Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.879Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.879Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.908Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.908Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.908Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.908Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.920Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.920Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.920Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.920Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.948Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.948Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.948Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.948Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.965Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.965Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.966Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.966Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.981Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.981Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:36.981Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:36.981Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.167Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.167Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.168Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.168Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.198Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.198Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.198Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.198Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.208Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.208Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.208Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.208Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.242Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.242Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.243Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.243Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.290Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.290Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.291Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.291Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.302Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.302Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.302Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.302Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.386Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.386Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.386Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.386Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.412Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.412Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.412Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.412Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.439Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.439Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.440Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.440Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.467Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.467Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.467Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.467Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.824Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.824Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.824Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.824Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.852Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.852Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.852Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.852Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.863Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.863Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.863Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.863Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.890Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.890Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.890Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.890Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.902Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.902Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.902Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.902Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.903Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.903Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.904Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.904Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.970Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.970Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:37.970Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:37.970Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:38.330Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:38.330Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:38.330Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:38.330Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:38.349Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:38.349Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:38.350Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:38.350Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:38.364Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:38.364Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:38.365Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:38.365Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:38.375Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:38.375Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:38.375Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:38.375Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:38.386Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:38.387Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:38.387Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:38.387Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:38.405Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:38.405Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:38.406Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:38.406Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:38.629Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:38.629Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:38.629Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:38.629Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.000Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.000Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.000Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.000Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.021Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.021Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.021Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.021Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.032Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.032Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.032Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.032Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.039Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.039Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.039Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.039Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.047Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.047Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.047Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.047Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.057Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.058Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.058Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.058Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.117Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.117Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.117Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.117Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.140Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.140Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.140Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.140Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.494Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.494Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.494Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.494Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.540Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.540Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.540Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.540Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.541Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.541Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.541Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.541Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.545Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.545Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.545Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.545Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.552Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.552Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.552Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.552Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.563Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.563Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.564Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.564Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.769Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.769Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.769Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.769Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.795Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.795Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.795Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.795Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.818Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.818Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.818Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.818Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.855Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.855Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.855Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.855Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.861Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.861Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.861Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.862Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.991Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.991Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:39.992Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:39.992Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.027Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.027Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.027Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.027Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.090Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.090Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.091Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.091Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.121Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.121Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.121Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.121Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.142Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.142Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.142Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.142Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.166Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.166Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.167Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.167Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.179Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.179Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.179Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.179Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.210Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.210Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.210Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.210Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.484Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.484Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.485Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.485Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.512Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.512Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.512Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.512Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.540Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.540Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.541Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.541Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.588Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.588Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.588Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.589Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.603Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.603Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.603Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.604Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.617Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.617Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.617Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.617Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.699Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.699Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.699Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.699Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.724Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.725Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.725Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.725Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.737Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.737Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.737Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.737Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.774Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.774Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.774Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.774Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.844Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.844Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:40.845Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:40.845Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:41.057Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:41.057Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:41.057Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:41.057Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:41.218Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:41.218Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:41.218Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:41.218Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:41.218Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:41.219Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:41.219Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:41.219Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:41.244Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:41.244Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:41.244Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:41.244Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:41.255Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:41.255Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:41.255Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:41.255Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:41.265Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:41.265Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:41.265Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:41.265Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:41.296Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:41.296Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:41.296Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:41.296Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:41.896Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:41.897Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:41.897Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:41.897Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.161Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.161Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.161Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.161Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.181Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.181Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.181Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.181Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.182Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.182Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.182Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.182Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.215Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.215Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.215Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.215Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.234Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.234Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.234Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.234Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.234Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.234Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.234Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.234Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.506Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.506Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.507Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.507Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.526Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.527Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.528Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.528Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.550Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.550Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.550Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.550Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.570Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.570Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.573Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.573Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.601Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.601Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.601Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.601Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.619Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.619Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.619Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.619Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.662Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.662Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.662Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.662Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.818Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.818Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.818Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.818Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.863Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.863Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.863Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.863Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.874Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.874Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.874Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.874Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.905Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.905Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.905Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.905Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.911Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.912Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.912Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.912Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.935Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.935Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:42.935Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:42.935Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.130Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.130Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.131Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.131Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.152Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.152Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.153Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.153Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.177Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.178Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.179Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.179Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.203Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.203Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.203Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.203Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.225Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.225Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.225Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.225Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.238Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.238Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.239Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.239Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.449Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.449Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.449Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.449Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.470Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.470Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.473Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.473Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.504Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.504Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.505Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.505Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.545Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.545Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.545Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.545Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.565Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.566Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.566Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.566Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.583Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.583Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.584Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.584Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.764Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.764Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.764Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.764Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.783Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.783Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.783Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.783Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.801Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.801Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.801Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.801Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.831Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.831Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.831Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.831Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.859Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.859Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.859Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.859Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.860Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.860Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:43.860Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:43.860Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.037Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.037Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.038Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.038Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.057Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.057Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.059Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.059Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.085Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.085Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.085Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.085Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.116Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.116Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.116Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.116Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.134Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.134Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.134Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.134Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.146Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.146Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.146Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.146Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.333Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.333Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.333Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.333Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.351Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.351Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.352Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.352Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.376Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.376Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.376Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.376Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.398Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.398Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.399Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.399Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.418Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.418Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.418Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.418Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.430Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.430Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.430Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.430Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.742Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.743Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.743Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.743Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.763Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.763Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.764Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.764Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.804Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.804Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.804Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.804Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.860Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.861Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.861Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.861Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.875Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.875Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.875Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.876Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.885Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.885Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.885Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.886Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.921Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.921Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.921Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.921Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.948Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.948Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+ 2025-10-11T10:21:44.948Z [WISTIA] 📨 Received message: undefined
+ 2025-10-11T10:21:44.948Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:44.974Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:44.974Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:44.974Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:44.974Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.164Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.164Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.165Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.165Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.175Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.175Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.175Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.175Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.190Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.190Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.190Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.190Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.202Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.202Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.202Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.202Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.211Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.211Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.211Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.211Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.265Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.265Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.265Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.265Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.640Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.640Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.640Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.640Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.664Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.665Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.665Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.665Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.708Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.708Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:45.708Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:45.708Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.089Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.089Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.089Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.089Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.123Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.123Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.125Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.125Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.125Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.125Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.125Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.125Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.147Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.147Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.147Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.147Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.147Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.147Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.148Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.148Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.157Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.157Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.157Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.157Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.501Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.501Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.501Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.501Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.523Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.523Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.523Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.523Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.554Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.554Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.555Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.555Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.555Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.555Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.555Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.555Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.565Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.566Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.566Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.566Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.580Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.580Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.581Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.581Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.591Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.591Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:46.591Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:46.591Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:49.045Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:49.045Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:49.046Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:49.046Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:55.125Z [WISTIA] 📨 Received message: checkDownloadStatus
+logger.js:19 2025-10-11T10:21:55.135Z [WISTIA] 📨 Received message: checkDownloadStatus
+logger.js:19 2025-10-11T10:21:55.135Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:55.135Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:55.135Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:55.135Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:55.144Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:55.144Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:55.144Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:55.144Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:55.146Z [WISTIA] 📨 Received message: getVideoInfo
+logger.js:19 2025-10-11T10:21:55.146Z [WISTIA] 🎬 Processing getVideoInfo request
+logger.js:19 2025-10-11T10:21:55.146Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:55.146Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:55.147Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:55.147Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.270Z [WISTIA] 📨 Received message: downloadVideo
+logger.js:19 2025-10-11T10:21:56.270Z [WISTIA] ⬇️ Processing downloadVideo request
+logger.js:19 2025-10-11T10:21:56.271Z [WISTIA] 🎬 Starting Wistia download for ID: cmst5825to, Type: video
+logger.js:19 2025-10-11T10:21:56.271Z [WISTIA] 🔄 Reset downloadCancelled flag for new download
+logger.js:19 2025-10-11T10:21:56.272Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.272Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.272Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.272Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.287Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.288Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.288Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.288Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.288Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.288Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.289Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.289Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.309Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.309Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.309Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.309Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.547Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.547Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.547Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.547Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.891Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.891Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.891Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.891Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.904Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.904Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.904Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.904Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.924Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.924Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.924Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.924Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.946Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.946Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.946Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.946Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.957Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.957Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.957Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.957Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.974Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.974Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:56.974Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:56.975Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:57.184Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:57.184Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:57.185Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:57.185Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:57.215Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:57.215Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:57.215Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:57.215Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:57.216Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:57.216Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:57.219Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:57.219Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:57.237Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:57.237Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:57.237Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:57.237Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:57.246Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:57.246Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:57.246Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:57.246Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:59.712Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:59.712Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
+logger.js:19 2025-10-11T10:21:59.712Z [WISTIA] 📨 Received message: undefined
+logger.js:19 2025-10-11T10:21:59.712Z [WISTIA] ❓ Unknown action: undefined
+warn @ logger.js:19
+wistiaLogger_warn @ logger.js:19
+(anonymous) @ background-enhanced.js:1325
