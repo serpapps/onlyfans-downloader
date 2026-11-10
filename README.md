@@ -40,7 +40,7 @@ This extension was designed to solve all of that directly inside your browser, w
 - **Side panel UI** — A tabbed panel organizes detected content into Videos, Images/GIFs, Text, and Bulk sections for easy navigation.
 - **Download manager** — Track progress in real time with speed indicators and cancel controls for every active download.
 - **DRM detection** — Protected content is flagged before you attempt a download, so you never waste time on files that cannot be saved.
-- **Cross-browser support** — Works on Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox
+- **Cross-browser support** — Works on Chrome, Edge, Brave, Opera, Whale, and Yandex
 
 ## How It Works
 
@@ -60,7 +60,7 @@ This extension was designed to solve all of that directly inside your browser, w
 
 Downloading from OnlyFans is tricky because the platform streams video rather than serving direct files, and all requests must be authenticated. This extension handles both problems automatically.
 
-**What you need:** A supported browser — Chrome, Edge, Brave, Firefox, or Opera — an internet connection, and an active OnlyFans subscription to the creator whose content you want to save.
+**What you need:** A supported browser — Chrome, Edge, Brave, Opera, Whale, or Yandex — an internet connection, and an active OnlyFans subscription to the creator whose content you want to save.
 
 **Step 1 — Install the extension.** Add SERP OnlyFans Downloader from your browser's extension store. Alternatively, download the latest release from [GitHub](https://github.com/serpapps/onlyfans-downloader/releases/latest) and load it manually in your browser's extension settings.
 
@@ -107,9 +107,9 @@ Beyond compatibility, the extension is built for the specific workflow of saving
 
 ## Trial & Pricing
 
-Trial downloads are included when you sign in with your email — no credit card required. Upgrade to a license for unlimited downloads at the [product page](https://serp.ly/onlyfans-downloader?via=github).
+3 free downloads a week are included when you sign in with your email — no credit card required. Upgrade to a subscription for unlimited downloads at the [product page](https://serp.ly/onlyfans-downloader?via=github).
 
-- Works on Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
+- Works on Chrome, Edge, Brave, Opera, Whale, and Yandex
 - Secure one-time-passcode sign-in — no passwords stored
 - All processing happens locally in your browser
 - DRM detection protects you from failed downloads
@@ -148,7 +148,7 @@ Some OnlyFans content uses DRM encryption. The extension detects this and notifi
 
 ### Q: Does this work on Firefox?
 
-Yes — supports Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox.
+No. It supports Chrome, Edge, Brave, Opera, Whale, and Yandex on Windows, macOS, and Linux. Firefox, Safari, and mobile browsers are not supported.
 
 ### Q: Is my data safe?
 
